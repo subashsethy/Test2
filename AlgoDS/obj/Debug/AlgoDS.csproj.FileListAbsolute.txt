@@ -1,0 +1,6 @@
+c:\users\sanat\documents\visual studio 2015\Projects\AlgoDS\AlgoDS\bin\Debug\AlgoDS.exe.config
+c:\users\sanat\documents\visual studio 2015\Projects\AlgoDS\AlgoDS\bin\Debug\AlgoDS.exe
+c:\users\sanat\documents\visual studio 2015\Projects\AlgoDS\AlgoDS\bin\Debug\AlgoDS.pdb
+c:\users\sanat\documents\visual studio 2015\Projects\AlgoDS\AlgoDS\obj\Debug\AlgoDS.csprojResolveAssemblyReference.cache
+c:\users\sanat\documents\visual studio 2015\Projects\AlgoDS\AlgoDS\obj\Debug\AlgoDS.exe
+c:\users\sanat\documents\visual studio 2015\Projects\AlgoDS\AlgoDS\obj\Debug\AlgoDS.pdb
